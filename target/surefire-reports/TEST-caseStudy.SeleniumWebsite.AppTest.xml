@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="caseStudy.SeleniumWebsite.AppTest" time="0.539" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="15"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.runtime.version" value="15.0.1+9-18"/>
+    <property name="java.class.path" value="/home/edureka/eclipse-workspace/Selenium_Website/target/test-classes:/home/edureka/eclipse-workspace/Selenium_Website/target/classes:/home/edureka/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/edureka/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/edureka/.m2/repository/org/seleniumhq/selenium/selenium-java/3.11.0/selenium-java-3.11.0.jar:/home/edureka/.m2/repository/org/seleniumhq/selenium/selenium-api/3.11.0/selenium-api-3.11.0.jar:/home/edureka/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.11.0/selenium-chrome-driver-3.11.0.jar:/home/edureka/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.11.0/selenium-edge-driver-3.11.0.jar:/home/edureka/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.11.0/selenium-firefox-driver-3.11.0.jar:/home/edureka/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.11.0/selenium-ie-driver-3.11.0.jar:/home/edureka/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.11.0/selenium-opera-driver-3.11.0.jar:/home/edureka/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0.jar:/home/edureka/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.11.0/selenium-safari-driver-3.11.0.jar:/home/edureka/.m2/repository/org/seleniumhq/selenium/selenium-support/3.11.0/selenium-support-3.11.0.jar:/home/edureka/.m2/repository/net/bytebuddy/byte-buddy/1.7.9/byte-buddy-1.7.9.jar:/home/edureka/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/home/edureka/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/home/edureka/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/edureka/.m2/repository/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar:/home/edureka/.m2/repository/com/google/guava/guava/23.6-jre/guava-23.6-jre.jar:/home/edureka/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/home/edureka/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/home/edureka/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/home/edureka/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/home/edureka/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/home/edureka/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/home/edureka/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/home/edureka/.m2/repository/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1.jar:/home/edureka/.m2/repository/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar:/home/edureka/.m2/repository/org/testng/testng/6.14.3/testng-6.14.3.jar:/home/edureka/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/home/edureka/.m2/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar:"/>
+    <property name="user.name" value="edureka"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="path.separator" value=":"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="os.version" value="4.15.0-1021-aws"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vm.specification.version" value="15"/>
+    <property name="os.name" value="Linux"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="localRepository" value="/home/edureka/.m2/repository"/>
+    <property name="sun.boot.library.path" value="/opt/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_15.0.1.v20201027-0507/jre/lib"/>
+    <property name="sun.java.command" value="/home/edureka/eclipse-workspace/Selenium_Website/target/surefire/surefirebooter3443331287835169715.jar /home/edureka/eclipse-workspace/Selenium_Website/target/surefire 2021-06-11T22-25-26_046-jvmRun1 surefire1834937034031214578tmp surefire_09662035475392510317tmp"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/home/edureka/eclipse-workspace/Selenium_Website/target/test-classes:/home/edureka/eclipse-workspace/Selenium_Website/target/classes:/home/edureka/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/edureka/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/edureka/.m2/repository/org/seleniumhq/selenium/selenium-java/3.11.0/selenium-java-3.11.0.jar:/home/edureka/.m2/repository/org/seleniumhq/selenium/selenium-api/3.11.0/selenium-api-3.11.0.jar:/home/edureka/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.11.0/selenium-chrome-driver-3.11.0.jar:/home/edureka/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.11.0/selenium-edge-driver-3.11.0.jar:/home/edureka/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.11.0/selenium-firefox-driver-3.11.0.jar:/home/edureka/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.11.0/selenium-ie-driver-3.11.0.jar:/home/edureka/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.11.0/selenium-opera-driver-3.11.0.jar:/home/edureka/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0.jar:/home/edureka/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.11.0/selenium-safari-driver-3.11.0.jar:/home/edureka/.m2/repository/org/seleniumhq/selenium/selenium-support/3.11.0/selenium-support-3.11.0.jar:/home/edureka/.m2/repository/net/bytebuddy/byte-buddy/1.7.9/byte-buddy-1.7.9.jar:/home/edureka/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/home/edureka/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/home/edureka/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/edureka/.m2/repository/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar:/home/edureka/.m2/repository/com/google/guava/guava/23.6-jre/guava-23.6-jre.jar:/home/edureka/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/home/edureka/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/home/edureka/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/home/edureka/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/home/edureka/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/home/edureka/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar:/home/edureka/.m2/repository/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar:/home/edureka/.m2/repository/com/squareup/okhttp3/okhttp/3.9.1/okhttp-3.9.1.jar:/home/edureka/.m2/repository/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar:/home/edureka/.m2/repository/org/testng/testng/6.14.3/testng-6.14.3.jar:/home/edureka/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/home/edureka/.m2/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.version" value="15.0.1"/>
+    <property name="user.home" value="/home/edureka"/>
+    <property name="user.dir" value="/home/edureka/eclipse-workspace/Selenium_Website"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.version.date" value="2020-10-20"/>
+    <property name="java.home" value="/opt/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_15.0.1.v20201027-0507/jre"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/home/edureka/eclipse-workspace/Selenium_Website"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="15.0.1+9-18"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="59.0"/>
+    <property name="surefire.real.class.path" value="/home/edureka/eclipse-workspace/Selenium_Website/target/surefire/surefirebooter3443331287835169715.jar"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue on shouldAnswerWithTrue(caseStudy.SeleniumWebsite.AppTest)" classname="caseStudy.SeleniumWebsite.AppTest" time="0.004"/>
+</testsuite>
